@@ -1,0 +1,55 @@
+
+game_532.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+jin-ye2
+  rotate: false
+  xy: 442, 1
+  size: 47, 114
+  orig: 47, 114
+  offset: 0, 0
+  index: -1
+jin-ye1
+  rotate: false
+  xy: 1, 241
+  size: 70, 119
+  orig: 70, 119
+  offset: 0, 0
+  index: -1
+jin-meinv
+  rotate: false
+  xy: 242, 1
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+jinpingmei
+  rotate: false
+  xy: 73, 241
+  size: 128, 49
+  orig: 128, 49
+  offset: 0, 0
+  index: -1
+zhayan
+  rotate: false
+  xy: 442, 117
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Jin Ping Mei
+  rotate: false
+  xy: 242, 201
+  size: 211, 39
+  orig: 211, 39
+  offset: 0, 0
+  index: -1

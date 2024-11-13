@@ -1,0 +1,69 @@
+
+game_142.png
+size: 509,317
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+game_142/142jiangbei
+  rotate: false
+  xy: 385, 1
+  size: 122, 124
+  orig: 122, 124
+  offset: 0, 0
+  index: -1
+game_142/142gold2
+  rotate: false
+  xy: 405, 205
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+game_142/142gold1
+  rotate: false
+  xy: 330, 266
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+game_142/142car
+  rotate: false
+  xy: 242, 144
+  size: 161, 120
+  orig: 161, 120
+  offset: 0, 0
+  index: -1
+gold_ray
+  rotate: false
+  xy: 405, 127
+  size: 75, 76
+  orig: 75, 76
+  offset: 0, 0
+  index: -1
+game_142/142en
+  rotate: false
+  xy: 1, 241
+  size: 183, 42
+  orig: 183, 42
+  offset: 0, 0
+  index: -1
+game_142/142ch
+  rotate: false
+  xy: 186, 266
+  size: 142, 49
+  orig: 142, 49
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 242, 1
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1

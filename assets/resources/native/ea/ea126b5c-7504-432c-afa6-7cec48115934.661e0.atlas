@@ -1,0 +1,55 @@
+
+game_200.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+dizhu
+  rotate: false
+  xy: 242, 1
+  size: 214, 215
+  orig: 214, 215
+  offset: 0, 0
+  index: -1
+doudizhu
+  rotate: false
+  xy: 1, 241
+  size: 128, 49
+  orig: 128, 49
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 434, 218
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: false
+  xy: 458, 1
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 131, 241
+  size: 88, 18
+  orig: 88, 18
+  offset: 0, 0
+  index: -1
+ddz
+  rotate: false
+  xy: 242, 218
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+game_104.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+tu
+  rotate: false
+  xy: 242, 1
+  size: 179, 161
+  orig: 179, 161
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 1, 288
+  size: 170, 49
+  orig: 170, 49
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 242, 164
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+yingwen
+  rotate: false
+  xy: 1, 241
+  size: 196, 45
+  orig: 196, 45
+  offset: 0, 0
+  index: -1

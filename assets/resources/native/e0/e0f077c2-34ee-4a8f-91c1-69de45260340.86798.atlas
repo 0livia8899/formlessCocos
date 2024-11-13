@@ -1,0 +1,55 @@
+
+game_538.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 1, 241
+  size: 108, 89
+  orig: 108, 89
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 111, 241
+  size: 89, 62
+  orig: 89, 62
+  offset: 0, 0
+  index: -1
+meinv
+  rotate: false
+  xy: 242, 1
+  size: 181, 194
+  orig: 181, 194
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 242, 197
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+yingwen
+  rotate: false
+  xy: 1, 340
+  size: 240, 42
+  orig: 240, 42
+  offset: 0, 0
+  index: -1
+zhongwen
+  rotate: false
+  xy: 243, 340
+  size: 170, 50
+  orig: 170, 50
+  offset: 0, 0
+  index: -1

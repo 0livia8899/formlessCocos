@@ -1,0 +1,41 @@
+
+game_531.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+tu
+  rotate: false
+  xy: 242, 213
+  size: 159, 167
+  orig: 159, 167
+  offset: 0, 0
+  index: -1
+laba
+  rotate: false
+  xy: 242, 1
+  size: 222, 210
+  orig: 222, 210
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 1, 323
+  size: 197, 49
+  orig: 197, 49
+  offset: 0, 0
+  index: -1
+yingwen
+  rotate: false
+  xy: 1, 241
+  size: 185, 80
+  orig: 185, 80
+  offset: 0, 0
+  index: -1

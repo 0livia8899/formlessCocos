@@ -1,0 +1,48 @@
+
+game_519.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+caishen
+  rotate: false
+  xy: 242, 1
+  size: 167, 169
+  orig: 167, 169
+  offset: 0, 0
+  index: -1
+yuanbao
+  rotate: false
+  xy: 131, 241
+  size: 108, 58
+  orig: 108, 58
+  offset: 0, 0
+  index: -1
+caishendao
+  rotate: false
+  xy: 1, 241
+  size: 128, 49
+  orig: 128, 49
+  offset: 0, 0
+  index: -1
+caishengaung
+  rotate: false
+  xy: 242, 172
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+csd
+  rotate: false
+  xy: 1, 315
+  size: 273, 45
+  orig: 273, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+game_3.png
+size: 508,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+game_3/poker
+  rotate: false
+  xy: 385, 142
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+game_3/gun
+  rotate: false
+  xy: 140, 241
+  size: 79, 131
+  orig: 79, 131
+  offset: 0, 0
+  index: -1
+game_3/fire5
+  rotate: false
+  xy: 463, 46
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+game_3/fire4
+  rotate: false
+  xy: 385, 197
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+game_3/fire3
+  rotate: false
+  xy: 432, 197
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+game_3/fire2
+  rotate: false
+  xy: 463, 1
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+game_3/fire1
+  rotate: false
+  xy: 463, 88
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+game_3/maozi
+  rotate: false
+  xy: 242, 1
+  size: 145, 139
+  orig: 145, 139
+  offset: 0, 0
+  index: -1
+game_3/maozilight
+  rotate: false
+  xy: 1, 241
+  size: 137, 110
+  orig: 137, 110
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 242, 142
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+game_3/lizi
+  rotate: false
+  xy: 432, 247
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+game_3/3en
+  rotate: false
+  xy: 221, 285
+  size: 234, 42
+  orig: 234, 42
+  offset: 0, 0
+  index: -1
+game_3/3ch
+  rotate: false
+  xy: 221, 329
+  size: 170, 49
+  orig: 170, 49
+  offset: 0, 0
+  index: -1

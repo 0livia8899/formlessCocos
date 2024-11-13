@@ -1,0 +1,62 @@
+
+game_530.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+dikuang
+  rotate: false
+  xy: 242, 140
+  size: 159, 167
+  orig: 159, 167
+  offset: 0, 0
+  index: -1
+ningmeng
+  rotate: false
+  xy: 1, 343
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+pingguo
+  rotate: false
+  xy: 131, 292
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+laba
+  rotate: false
+  xy: 242, 1
+  size: 222, 137
+  orig: 222, 137
+  offset: 0, 0
+  index: -1
+lingdang
+  rotate: false
+  xy: 50, 343
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+xiaomali
+  rotate: false
+  xy: 1, 292
+  size: 128, 49
+  orig: 128, 49
+  offset: 0, 0
+  index: -1
+yingwen
+  rotate: false
+  xy: 1, 241
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1

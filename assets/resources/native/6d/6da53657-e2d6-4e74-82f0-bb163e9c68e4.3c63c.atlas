@@ -1,0 +1,69 @@
+
+game_556.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+dipan
+  rotate: false
+  xy: 242, 95
+  size: 193, 51
+  orig: 193, 51
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 242, 199
+  size: 166, 50
+  orig: 166, 50
+  offset: 0, 0
+  index: -1
+houzi
+  rotate: false
+  xy: 242, 1
+  size: 129, 92
+  orig: 129, 92
+  offset: 0, 0
+  index: -1
+shizi
+  rotate: false
+  xy: 410, 199
+  size: 75, 91
+  orig: 75, 91
+  offset: 0, 0
+  index: -1
+tuzi
+  rotate: false
+  xy: 437, 78
+  size: 67, 80
+  orig: 67, 80
+  offset: 0, 0
+  index: -1
+xiongmao
+  rotate: false
+  xy: 373, 1
+  size: 92, 75
+  orig: 92, 75
+  offset: 0, 0
+  index: -1
+ch
+  rotate: false
+  xy: 242, 148
+  size: 170, 49
+  orig: 170, 49
+  offset: 0, 0
+  index: -1
+yingwen
+  rotate: false
+  xy: 1, 241
+  size: 196, 38
+  orig: 196, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+game_407.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+dikuang
+  rotate: false
+  xy: 242, 208
+  size: 159, 167
+  orig: 159, 167
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 1, 314
+  size: 130, 103
+  orig: 130, 103
+  offset: 0, 0
+  index: -1
+likui
+  rotate: false
+  xy: 242, 1
+  size: 214, 205
+  orig: 214, 205
+  offset: 0, 0
+  index: -1
+lkpy
+  rotate: false
+  xy: 1, 419
+  size: 170, 49
+  orig: 170, 49
+  offset: 0, 0
+  index: -1
+yingwenzi
+  rotate: false
+  xy: 1, 241
+  size: 222, 71
+  orig: 222, 71
+  offset: 0, 0
+  index: -1

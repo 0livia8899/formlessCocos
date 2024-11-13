@@ -1,0 +1,55 @@
+
+game_533.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+fu-ren1
+  rotate: false
+  xy: 242, 228
+  size: 99, 130
+  orig: 99, 130
+  offset: 0, 0
+  index: -1
+fu-ren2
+  rotate: false
+  xy: 386, 1
+  size: 119, 131
+  orig: 119, 131
+  offset: 0, 0
+  index: -1
+fu-pen
+  rotate: false
+  xy: 343, 228
+  size: 139, 90
+  orig: 139, 90
+  offset: 0, 0
+  index: -1
+fuxinggaozhao
+  rotate: false
+  xy: 1, 241
+  size: 169, 49
+  orig: 169, 49
+  offset: 0, 0
+  index: -1
+fuxing-g
+  rotate: false
+  xy: 242, 1
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 242, 144
+  size: 190, 82
+  orig: 190, 82
+  offset: 0, 0
+  index: -1

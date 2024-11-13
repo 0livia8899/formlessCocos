@@ -1,0 +1,48 @@
+
+game_529.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+juedi-ren
+  rotate: false
+  xy: 242, 1
+  size: 134, 187
+  orig: 134, 187
+  offset: 0, 0
+  index: -1
+juedi-guang
+  rotate: false
+  xy: 378, 1
+  size: 87, 153
+  orig: 87, 153
+  offset: 0, 0
+  index: -1
+juedi-che
+  rotate: false
+  xy: 242, 190
+  size: 179, 123
+  orig: 179, 123
+  offset: 0, 0
+  index: -1
+juediqiusheng
+  rotate: false
+  xy: 1, 288
+  size: 170, 49
+  orig: 170, 49
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 1, 241
+  size: 227, 45
+  orig: 227, 45
+  offset: 0, 0
+  index: -1

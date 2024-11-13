@@ -1,0 +1,76 @@
+
+game_130.png
+size: 484,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+game_130/tbzpoker
+  rotate: false
+  xy: 242, 172
+  size: 144, 50
+  orig: 144, 50
+  offset: 0, 0
+  index: -1
+game_130/tbzbaozi
+  rotate: false
+  xy: 242, 1
+  size: 153, 122
+  orig: 153, 122
+  offset: 0, 0
+  index: -1
+game_130/en
+  rotate: false
+  xy: 242, 125
+  size: 214, 45
+  orig: 214, 45
+  offset: 0, 0
+  index: -1
+game_130/ch
+  rotate: false
+  xy: 242, 224
+  size: 128, 49
+  orig: 128, 49
+  offset: 0, 0
+  index: -1
+game_130/tbzrighteye2
+  rotate: false
+  xy: 455, 46
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+game_130/tbzpoker1
+  rotate: false
+  xy: 397, 1
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+game_130/tbzlefteye2
+  rotate: false
+  xy: 455, 1
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+game_130/tbzlefteye1
+  rotate: false
+  xy: 455, 27
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+game_130/tbzrighteye1
+  rotate: false
+  xy: 397, 60
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1

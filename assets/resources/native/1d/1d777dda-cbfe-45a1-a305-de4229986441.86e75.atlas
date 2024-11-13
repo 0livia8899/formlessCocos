@@ -1,0 +1,62 @@
+
+game_534.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+tu
+  rotate: false
+  xy: 1, 241
+  size: 159, 167
+  orig: 159, 167
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 242, 1
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+yuanbao
+  rotate: false
+  xy: 242, 191
+  size: 181, 173
+  orig: 181, 173
+  offset: 0, 0
+  index: -1
+baohe
+  rotate: false
+  xy: 305, 366
+  size: 171, 113
+  orig: 171, 113
+  offset: 0, 0
+  index: -1
+yueguangbaohe
+  rotate: false
+  xy: 1, 509
+  size: 169, 49
+  orig: 169, 49
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 162, 366
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+yingwen
+  rotate: false
+  xy: 305, 481
+  size: 186, 80
+  orig: 186, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+game_550.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+tu
+  rotate: false
+  xy: 1, 241
+  size: 180, 175
+  orig: 180, 175
+  offset: 0, 0
+  index: -1
+ch
+  rotate: false
+  xy: 1, 418
+  size: 212, 49
+  orig: 212, 49
+  offset: 0, 0
+  index: -1
+ying
+  rotate: false
+  xy: 1, 469
+  size: 224, 40
+  orig: 224, 40
+  offset: 0, 0
+  index: -1

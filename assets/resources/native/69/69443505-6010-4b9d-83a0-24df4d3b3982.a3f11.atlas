@@ -1,0 +1,62 @@
+
+game_535.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+dikuang
+  rotate: false
+  xy: 242, 195
+  size: 159, 167
+  orig: 159, 167
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 242, 1
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ren
+  rotate: false
+  xy: 1, 241
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 149, 241
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+wushizhansha
+  rotate: false
+  xy: 292, 364
+  size: 170, 49
+  orig: 170, 49
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 149, 364
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+yingwen
+  rotate: false
+  xy: 1, 507
+  size: 224, 40
+  orig: 224, 40
+  offset: 0, 0
+  index: -1

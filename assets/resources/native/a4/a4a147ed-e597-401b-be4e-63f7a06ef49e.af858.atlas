@@ -1,0 +1,48 @@
+
+game_33.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+tubiao
+  rotate: false
+  xy: 242, 1
+  size: 194, 160
+  orig: 194, 160
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 173, 241
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+niu
+  rotate: false
+  xy: 242, 163
+  size: 157, 149
+  orig: 157, 149
+  offset: 0, 0
+  index: -1
+mingpainiuniu
+  rotate: false
+  xy: 1, 241
+  size: 170, 49
+  orig: 170, 49
+  offset: 0, 0
+  index: -1
+mpnn
+  rotate: false
+  xy: 1, 292
+  size: 174, 38
+  orig: 174, 38
+  offset: 0, 0
+  index: -1

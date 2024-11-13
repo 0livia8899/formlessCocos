@@ -1,0 +1,83 @@
+
+game_537.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+tu
+  rotate: false
+  xy: 242, 1
+  size: 159, 167
+  orig: 159, 167
+  offset: 0, 0
+  index: -1
+game_537/537renwu
+  rotate: false
+  xy: 242, 170
+  size: 143, 181
+  orig: 143, 181
+  offset: 0, 0
+  index: -1
+game_537/537eye
+  rotate: false
+  xy: 144, 319
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+game_537/537ch
+  rotate: false
+  xy: 1, 400
+  size: 170, 49
+  orig: 170, 49
+  offset: 0, 0
+  index: -1
+game_537/537xian1
+  rotate: false
+  xy: 221, 241
+  size: 10, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+game_537/537xiaogu
+  rotate: false
+  xy: 387, 220
+  size: 48, 53
+  orig: 53, 53
+  offset: 5, 0
+  index: -1
+game_537/537en
+  rotate: false
+  xy: 144, 353
+  size: 255, 45
+  orig: 255, 45
+  offset: 0, 0
+  index: -1
+game_537/537tangHL
+  rotate: false
+  xy: 387, 170
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 1, 241
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+gold_ray
+  rotate: false
+  xy: 144, 241
+  size: 75, 76
+  orig: 75, 76
+  offset: 0, 0
+  index: -1

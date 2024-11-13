@@ -1,0 +1,90 @@
+
+game_132.png
+size: 499,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 1, 241
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+game_132/lizi
+  rotate: false
+  xy: 183, 241
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+game_132/chouma
+  rotate: false
+  xy: 242, 156
+  size: 160, 128
+  orig: 160, 128
+  offset: 0, 0
+  index: -1
+game_132/heitao
+  rotate: false
+  xy: 144, 337
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+game_132/hongtao
+  rotate: false
+  xy: 144, 241
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+game_132/jiangbei
+  rotate: false
+  xy: 242, 1
+  size: 134, 153
+  orig: 134, 153
+  offset: 0, 0
+  index: -1
+game_132/fangpian
+  rotate: false
+  xy: 455, 1
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+game_132/caohua
+  rotate: false
+  xy: 378, 79
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+gold_ray
+  rotate: false
+  xy: 378, 1
+  size: 75, 76
+  orig: 75, 76
+  offset: 0, 0
+  index: -1
+game_132/en
+  rotate: false
+  xy: 1, 384
+  size: 203, 42
+  orig: 203, 42
+  offset: 0, 0
+  index: -1
+game_132/ch
+  rotate: false
+  xy: 144, 286
+  size: 170, 49
+  orig: 170, 49
+  offset: 0, 0
+  index: -1

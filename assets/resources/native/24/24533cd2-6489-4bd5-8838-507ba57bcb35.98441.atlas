@@ -1,0 +1,48 @@
+
+game_539.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+dikuang
+  rotate: false
+  xy: 242, 1
+  size: 159, 167
+  orig: 159, 167
+  offset: 0, 0
+  index: -1
+tu
+  rotate: false
+  xy: 242, 170
+  size: 162, 149
+  orig: 162, 149
+  offset: 0, 0
+  index: -1
+zhongwen
+  rotate: false
+  xy: 1, 384
+  size: 170, 49
+  orig: 170, 49
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 1, 241
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+yingwen
+  rotate: false
+  xy: 1, 435
+  size: 130, 64
+  orig: 130, 64
+  offset: 0, 0
+  index: -1

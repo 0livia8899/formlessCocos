@@ -1,0 +1,48 @@
+
+dtbg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 1
+  size: 1334, 750
+  orig: 1334, 750
+  offset: 0, 0
+  index: -1
+fen
+  rotate: false
+  xy: 1482, 714
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+haung
+  rotate: false
+  xy: 1532, 714
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+lan
+  rotate: false
+  xy: 1507, 714
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 1337, 1
+  size: 698, 711
+  orig: 698, 711
+  offset: 0, 0
+  index: -1
+guangshu
+  rotate: false
+  xy: 1337, 714
+  size: 143, 671
+  orig: 143, 671
+  offset: 0, 0
+  index: -1

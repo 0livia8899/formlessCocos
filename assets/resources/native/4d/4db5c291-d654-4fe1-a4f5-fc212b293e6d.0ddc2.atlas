@@ -1,0 +1,76 @@
+
+game_512.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 255, 1
+  size: 239, 238
+  orig: 239, 238
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 1, 1
+  size: 252, 244
+  orig: 252, 244
+  offset: 0, 0
+  index: -1
+chuan
+  rotate: false
+  xy: 255, 241
+  size: 184, 185
+  orig: 184, 185
+  offset: 0, 0
+  index: -1
+pao2
+  rotate: false
+  xy: 369, 428
+  size: 54, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+pao3
+  rotate: false
+  xy: 324, 479
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+pao1
+  rotate: false
+  xy: 441, 241
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: -1
+haiwangbuyu
+  rotate: false
+  xy: 197, 428
+  size: 170, 49
+  orig: 170, 49
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 197, 479
+  size: 88, 18
+  orig: 88, 18
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 287, 479
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+hwby
+  rotate: false
+  xy: 1, 428
+  size: 194, 81
+  orig: 194, 81
+  offset: 0, 0
+  index: -1
